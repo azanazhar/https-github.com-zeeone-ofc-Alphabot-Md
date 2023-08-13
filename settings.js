@@ -14,10 +14,10 @@ global.APIKeys = {
 
 // setting 
 global.autoread = false // auto read message
-global.autobio = false //auto ganti bio
+global.autobio = true //auto ganti bio
 global.anticall = true //anti call 
 global.userRegister = false 
-global.autoblok212 = false //ubah jadi true biar nmr 212 di blok sama bot
+global.autoblok212 = true //ubah jadi true biar nmr 212 di blok sama bot
 
 //language
 //Available in indonesia , english & spanyol 
@@ -27,18 +27,18 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "Fabian-Botz" //namabot kalian
-global.ownername= "Fabian" //nama kalian
+global.botname = "AZAN-Botz" //namabot kalian
+global.ownername= "AZAN" //nama kalian
 global.myweb ="Tidak Ada" //bebas asal jan hapus
 global.youtube = "Tidak Ada" //bebas asal jan hapus
 global.myweb2 = "Tidak Ada" //bebas
-global.email = "fabian.01ste@gmail.com" //bebas
-global.region = "Indonesia" //bebas
-global.timezone = 'Asia/Jakarta' //  timezone wib
+global.email = "azanazhar120@gmail.com" //bebas
+global.region = "Pakistan" //bebas
+global.timezone = 'Asia/Karachi' //  timezone wib
 global.premium = ['6282333590334'] //premium user
-global.owner = ["6282333590334","6282333590334"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "6282333590334" // nomor wa kalian
-global.ownernomerr = "+6282333590334" //nmr wa kalian
+global.owner = ["923412457544","923130013796"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "923412457544" // nomor wa kalian
+global.ownernomerr = "+923412457544" //nmr wa kalian
 global.thumbnail = "./image/20230101_083419.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/20230101_083544.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
